@@ -1,80 +1,80 @@
 Basic Words:
 
-Good - Yate
-Bad - Kheda
+Good - jake
+Bad - x~χed(ð)a
 
-Yes - Nga
-No - Ayakh
+Yes - ŋa
+No - aja
 
 Numbers:
-1 - Ma
-2 - Takh
-3 - Khe
-4 - Ang
-5 - Ra
-6 - Tye
-7 - Kho
-8 - Nge
-9 - Dakh
-10 - To
+1 - ma
+2 - ta
+3 - xe
+4 - aŋ
+5 - r(?V)
+6 - tja
+7 - x~χo
+8 - ŋ(e/ie)
+9 - da
+10 - to
 
 
 "Full" Wordlist:
 
 Pronouns:
 
-I - Te
-You (sing.) - Ketü
-We - Tenge
-You (plural.) - Kete
-He - Ko
-She - Ka
-They (sing.) - Kham
-They (plural.) - Peka
+I - te
+You (sing.) - ketie
+We - teŋe
+You (plural.) - kete
+He - ko
+She - ka
+They (sing.) - xa(ae?)m
+They (plural.) - peka
 
 
 The Physical World
 
-air - Khe
-area, region, country - Sena
-ash - Khatü
-cave - Säka
-cloud - Kola
-darkness, dark - Mäsa
-dust, dry dirt - Karo
-earth (planet) - Setanakü
-earth, soil, 'healthy-dirt' - Ngeda
-fire, flames - Setya
-fog, mist, 'low-clouds' - Kota-ne
-forest - 
-gulf, bay
-ice, frozen liquid
-island
-lake, ocean, 'large body of water'
-light
-iginite, kindle (v.)
-lightning, storm
-mainland
-match, fire-stick
-moon
-mountain, 'big-hill'
-mud
-plain, field
-rain, snow
-river, stream, brook
-sand
-shadow
-shore, shoreline
-sky
-smoke
-spring, well, 'water-hole'
-star
-stone, rock
-sun
-valley
-water - Nelasa
-wave
-weather
-wind
-wood
-world
+air - xe
+area, region, country - sena
+ash - xatie
+cave - saeka
+cloud - kol
+darkness, dark - maese
+dust, dry dirt - karo
+earth (planet) - setanekie
+earth, soil, 'healthy-dirt' - ŋeta
+fire, flames - setja
+fog, mist, 'low-clouds' - kotane
+forest - saeχa
+gulf, bay - nesen
+ice, frozen liquid - netjieχ
+island - senesen
+lake, ocean, 'large body of water' - nejaeso
+light - peχa
+iginite, kindle (v.) - tjatox (toxie, verb to make)
+lightning, storm - tiχaŋ
+mainland - sene
+match, fire-stick - tjaket
+moon - atoja
+mountain, 'big-hill' - ŋaetos
+mud - ŋetje
+plain, field - kesa
+rain, snow - ŋaeto
+river, stream, brook - nesalax
+sand - tjo
+shadow - metan
+shore, shoreline - najiex
+sky - peja
+smoke - setaŋ
+spring, well, 'water-hole' - neje
+star - ti
+stone, rock - sato
+sun - amoŋa
+valley - seχen
+water - nejas
+wave - nejasena
+weather - piesale
+wind - mitale
+wood - ketja
+world - feniela
