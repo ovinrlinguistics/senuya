@@ -47,13 +47,13 @@ earth, soil, 'healthy-dirt' - ŋeta
 fire, flames - setja
 fog, mist, 'low-clouds' - kotane
 forest - saeχa
-gulf, bay - nesen
+gulf, bay - ŋesen
 ice, frozen liquid - netjieχ
 island - senesen
 lake, ocean, 'large body of water' - nejaeso
 light - peχa
 iginite, kindle (v.) - tjatox (toxie, verb to make)
-lightning, storm - tiχaŋ
+lightning, storm - teχaŋ
 mainland - sene
 match, fire-stick - tjaket
 moon - atoja
@@ -68,13 +68,59 @@ shore, shoreline - najiex
 sky - peja
 smoke - setaŋ
 spring, well, 'water-hole' - neje
-star - ti
+star - te
 stone, rock - sato
 sun - amoŋa
 valley - seχen
 water - nejas
 wave - nejasena
 weather - piesale
-wind - mitale
+wind - metale
 wood - ketja
 world - feniela
+
+Kinship
+
+ancestor, elder - ŋex~χ
+boy - kēlatė
+brother - teŋātė
+child - kēla
+daughter - ŋātȧ
+descendants - ŋātolie
+family - tolā
+father - oŋatė
+female - tȧ
+girl - kēlatȧ
+granddaugter - 
+grandfather - 
+grandmother - 
+grandson - 
+husband - 
+infant, baby
+male - tė
+man - ŋȯte
+marry - 
+mother - oŋatȧ
+offspring - 
+orphan - 
+parent - oŋa
+person, human - ŋȯ
+relative - 
+sister - teŋātȧ
+sibling - teŋā
+son - ŋātė
+woman - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
